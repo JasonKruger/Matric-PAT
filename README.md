@@ -1,2 +1,2 @@
 # Matric-PAT
-This was my final matric project for 2021
+This was my final matric project for Computer Applications Technology, 2021
